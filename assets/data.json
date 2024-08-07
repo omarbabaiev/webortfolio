@@ -1,0 +1,358 @@
+{"categories": [
+{
+"name": "Success",
+"id": 1,
+"subcategories": [
+{
+"name": "Career Success",
+"id": 11,
+"quotes": [
+{
+"id": 111,
+"text": "Success usually comes to those who are too busy to be looking for it.",
+"author": "Henry David Thoreau"
+},
+{
+"id": 112,
+"text": "Opportunities don't happen. You create them.",
+"author": "Chris Grosser"
+},
+{
+"id": 113,
+"text": "Don't be afraid to give up the good to go for the great.",
+"author": "John D. Rockefeller"
+},
+{
+"id": 114,
+"text": "I find that the harder I work, the more luck I seem to have.",
+"author": "Thomas Jefferson"
+},
+{
+"id": 115,
+"text": "Success is not in what you have, but who you are.",
+"author": "Bo Bennett"
+},
+{
+"id": 116,
+"text": "Success is walking from failure to failure with no loss of enthusiasm.",
+"author": "Winston Churchill"
+},
+{
+"id": 117,
+"text": "The way to get started is to quit talking and begin doing.",
+"author": "Walt Disney"
+},
+{
+"id": 118,
+"text": "Your time is limited, don’t waste it living someone else’s life.",
+"author": "Steve Jobs"
+},
+{
+"id": 119,
+"text": "Success doesn’t come from what you do occasionally, it comes from what you do consistently.",
+"author": "Marie Forleo"
+},
+{
+"id": 120,
+"text": "The only limit to our realization of tomorrow is our doubts of today.",
+"author": "Franklin D. Roosevelt"
+},
+  {
+    "id": 121,
+    "text": "The only place where success comes before work is in the dictionary.",
+    "author": "Vidal Sassoon"
+  },
+  {
+    "id": 122,
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson"
+  },
+  {
+    "id": 123,
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 124,
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 125,
+    "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "id": 126,
+    "text": "Success is not the result of spontaneous combustion. You must set yourself on fire.",
+    "author": "Arnold H. Glasow"
+  },
+  {
+    "id": 127,
+    "text": "Hard work beats talent when talent doesn’t work hard.",
+    "author": "Kevin Durant"
+  },
+  {
+    "id": 128,
+    "text": "Success doesn’t come from what you do occasionally, it comes from what you do consistently.",
+    "author": "Marie Forleo"
+  },
+  {
+    "id": 129,
+    "text": "The road to success and the road to failure are almost exactly the same.",
+    "author": "Colin R. Davis"
+  },
+  {
+    "id": 130,
+    "text": "Success is going from failure to failure without losing your enthusiasm.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 131,
+    "text": "The best way to predict your future is to create it.",
+    "author": "Peter Drucker"
+  },
+  {
+    "id": 132,
+    "text": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "id": 133,
+    "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 134,
+    "text": "Success is not the result of making goals but rather of achieving them.",
+    "author": "Unknown"
+  },
+  {
+    "id": 135,
+    "text": "Success is the sum of small efforts, repeated day in and day out.",
+    "author": "Robert Collier"
+  },
+  {
+    "id": 136,
+    "text": "If you want something you’ve never had, you must be willing to do something you’ve never done.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "id": 137,
+    "text": "To achieve greatness, start where you are, use what you have, do what you can.",
+    "author": "Arthur Ashe"
+  },
+  {
+    "id": 138,
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 139,
+    "text": "Your life does not get better by chance, it gets better by change.",
+    "author": "Jim Rohn"
+  },
+  {
+    "id": 140,
+    "text": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt"
+  }
+]
+},
+
+
+{
+"name": "Overcoming Challenges",
+"id": 14,
+"quotes": [
+{
+"id": 141,
+"text": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+"author": "Joshua J. Marine"
+},
+{
+"id": 142,
+"text": "It does not matter how slowly you go as long as you do not stop.",
+"author": "Confucius"
+},
+{
+"id": 143,
+"text": "The only limit to our realization of tomorrow is our doubts of today.",
+"author": "Franklin D. Roosevelt"
+},
+{
+"id": 144,
+"text": "You may encounter many defeats, but you must not be defeated.",
+"author": "Maya Angelou"
+},
+{
+"id": 145,
+"text": "We may encounter many defeats but we must not be defeated.",
+"author": "Maya Angelou"
+},
+{
+"id": 146,
+"text": "Strength does not come from winning. Your struggles develop your strengths.",
+"author": "Arnold Schwarzenegger"
+},
+{
+"id": 147,
+"text": "The greater the obstacle, the more glory in overcoming it. Skillful pilots gain their reputation from storms and tempests.",
+"author": "Epictetus"
+},
+{
+"id": 148,
+"text": "Hard times may have held you down, but they will not keep you down.",
+"author": "Unknown"
+},
+{
+"id": 149,
+"text": "Challenges make you discover things about yourself that you never really knew.",
+"author": "Catherine Pulsifer"
+},
+{
+"id": 150,
+"text": "In the middle of every difficulty lies opportunity.",
+"author": "Albert Einstein"
+}
+]
+},
+{
+"name": "Success Stories",
+"id": 15,
+"quotes": [
+{
+"id": 151,
+"text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+"author": "Winston Churchill"
+},
+{
+"id": 152,
+"text": "Success usually comes to those who are too busy to be looking for it.",
+"author": "Henry David Thoreau"
+},
+{
+"id": 153,
+"text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+"author": "Albert Schweitzer"
+},
+{
+"id": 154,
+"text": "Success is the sum of small efforts, repeated day in and day out.",
+"author": "Robert Collier"
+},
+{
+"id": 155,
+"text": "The only way to achieve the impossible is to believe it is possible.",
+"author": "Charles Kingsleigh"
+},
+{
+"id": 156,
+"text": "Success is not in what you have, but who you are.",
+"author": "Bo Bennett"
+},
+{
+"id": 157,
+"text": "The best way to predict your future is to create it.",
+"author": "Peter Drucker"
+},
+{
+"id": 158,
+"text": "You are never too old to set another goal or to dream a new dream.",
+"author": "C.S. Lewis"
+},
+{
+"id": 159,
+"text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+"author": "Ralph Waldo Emerson"
+},
+{
+"id": 160,
+"text": "Success is not the result of making goals but rather of achieving them.",
+"author": "Unknown"
+},
+{
+"id": 161,
+"text": "Success is the sum of small efforts, repeated day in and day out.",
+"author": "Robert Collier"
+},
+{
+"id": 162,
+"text": "If you want something you’ve never had, you must be willing to do something you’ve never done.",
+"author": "Thomas Jefferson"
+},
+{
+"id": 163,
+"text": "To achieve greatness, start where you are, use what you have, do what you can.",
+"author": "Arthur Ashe"
+},
+{
+"id": 164,
+"text": "The only way to do great work is to love what you do.",
+"author": "Steve Jobs"
+},
+{
+"id": 165,
+"text": "Your life does not get better by chance, it gets better by change.",
+"author": "Jim Rohn"
+}
+]
+}
+]
+}
+      ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
