@@ -9,7 +9,7 @@ class MobileProjectsView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Wrap(
-      runSpacing: 100,
+      runSpacing: 200,
       spacing: 150,
       children: allProjects
     );

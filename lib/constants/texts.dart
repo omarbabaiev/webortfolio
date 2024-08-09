@@ -1,4 +1,5 @@
 
+
 class ConstText{
  static final developerName = "Omar Babayev";
  static final specName = "Flutter developer";
@@ -16,3 +17,4 @@ class ConstText{
 
 
 }
+

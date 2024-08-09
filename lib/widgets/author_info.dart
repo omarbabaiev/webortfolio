@@ -1,31 +1,33 @@
 import 'package:flutter/cupertino.dart';
+import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import '../constants/colors.dart';
 import '../constants/texts.dart';
 
 class AuthorInfo extends StatelessWidget {
-  const AuthorInfo({
-    super.key,
-  });
+
 
   @override
   Widget build(BuildContext context) {
+    var mobile = Get.width < 600;
     return Column(
       children: [
         Text(
           ConstText.developerName.toUpperCase(),
-          style: GoogleFonts.josefinSans(
+          textAlign: TextAlign.center,
+          style: TextStyle(
               letterSpacing: 12,
-              fontSize: 100,
+              fontSize: mobile ? 25 : 100,
               color: ConstColors.color3,
-              fontWeight: FontWeight.w400),
+              fontWeight: FontWeight.bold),
         ),
+        mobile ? SizedBox(height: 20,) : SizedBox(),
         Text(
           ConstText.specName.toUpperCase(),
-          style: GoogleFonts.josefinSans(
+          style: TextStyle(
               letterSpacing: 5,
-              fontSize: 25,
+              fontSize: mobile ? 18 : 25,
               color: ConstColors.color1,
               fontWeight: FontWeight.w700),
         ),

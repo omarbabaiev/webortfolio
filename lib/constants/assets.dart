@@ -1,6 +1,6 @@
 
 class ConstAssets{
-  static final backImage = "assets/backgraund.webp";
+  static final backImage = "moon.svg";
   static final alliance = "alliance-min.jpg";
   static final dict = "dict-min.jpg";
   static final gi = "gi-min.jpg";

@@ -20,7 +20,7 @@ class MyPortfolioApp extends StatelessWidget {
         scaffoldBackgroundColor: ConstColors.scafBackColor,
         primarySwatch: Colors.deepOrange,
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueAccent),
-        textTheme: GoogleFonts.latoTextTheme(Theme.of(context).textTheme),
+        fontFamily: 'JosefinSans',
       ),
     );
   }

@@ -15,61 +15,61 @@ var allProjects = [
       ConstAssets.alliance,
       "Alliance",
       "Su təmizləyən qurğular, filtlrər və ev əşyalarının satışı ",
-      "https://play.google.com/store/apps/details?id=com.minicraft.pro"
+      "https://play.google.com/store/apps/details?id=com.lezgindev.kiymetsiz_yazilar&hl=en"
   ),
   MobileApp(
       ConstAssets.vincheck,
       "Vincheck App",
-      "Su təmizləyən qurğular, filtlrər ev əşyalarının satışı",
-      "https://play.google.com/store/apps/details?id=com.minicraft.pro"
+      "VinCheck, users can easily obtain vital information about used cars, including accident history, mileage verification, ownership records, title information, and more",
+      "https://play.google.com/store/apps/details?id=com.lezgindev.vincheck&hl=en"
   ),
   MobileApp(
       ConstAssets.stary,
       "Stary",
-      "Su təmizləyən qurğular, filtlrər ev əşyalarının satışı ",
-      "https://play.google.com/store/apps/details?id=com.minicraft.pro"
+      "Stary bir elan yerləşdirmə və axtarış tətbiqidir ",
+      "https://play.google.com/store/apps/details?id=com.lezgindev.vincheck&hl=en"
   ),
   MobileApp(
       ConstAssets.ky,
       "Kıymetsiz Yazılar",
-      "Su təmizləyən qurğular, filtlrər ev əşyalarının satışı ",
-      "https://play.google.com/store/apps/details?id=com.minicraft.pro"
+      "Valuable sentences extracted from the three volumes (MEKTÛBÂT) of Hadrat Imam-i Rabbânî Müceddîd-i Elf-i sânî Ahmed Fârûkî Serhendi",
+      "https://play.google.com/store/apps/details?id=com.lezgindev.kiymetsiz_yazilar&hl=en"
   ),
   MobileApp(
       ConstAssets.quizLeague,
       "Quiz League",
-      "Su təmizləyən qurğular, filtlrər ev əşyalarının satışı ",
-      "https://play.google.com/store/apps/details?id=com.minicraft.pro"
+      "Flutter ilə hazırladığım futbolçu isimləri ilə əlaqədar söz oyunu",
+      "https://play.google.com/store/apps/details?id=com.lezgindev.kiymetsiz_yazilar&hl=en"
   ),
   MobileApp(
       ConstAssets.gi,
       "Gözəl İslam",
-      "Su təmizləyən qurğular, filtlrər ev əşyalarının satışı ",
-      "https://play.google.com/store/apps/details?id=com.minicraft.pro"
+      "Namaz vaxtları, təqvimlər, dini bilgilər və demək olar islam dininə aid hər şey",
+      "https://play.google.com/store/apps/details?id=com.lezgindev.gozel.islam&hl=en"
   ),
   MobileApp(
       ConstAssets.dict,
       "DictEng",
-      "Su təmizləyən qurğular, filtlrər ev əşyalarının satışı ",
-      "https://play.google.com/store/apps/details?id=com.minicraft.pro"
+      "İngilis dilində sözlərin mənası sinonim, omonim və s. detallı məlumatlar",
+      "https://play.google.com/store/apps/details?id=com.lezgindev.gozel.islam&hl=en"
   ),
   MobileApp(
       ConstAssets.nv,
       "Namaz Vaxtı",
-      "Su təmizləyən qurğular, filtlrər ev əşyalarının satışı ",
-      "https://play.google.com/store/apps/details?id=com.minicraft.pro"
+      "Azərbaycan üçün namaz vaxtları və İslam dininə aid hər şey",
+      "https://play.google.com/store/apps/details?id=com.prayer_time_gi.app&hl=en"
   ),
   MobileApp(
       ConstAssets.nv_lite,
       "Namaz Vaxtı Lite",
-      "Su təmizləyən qurğular, filtlrər ev əşyalarının satışı ",
-      "https://play.google.com/store/apps/details?id=com.minicraft.pro"
+      "Sadə namaz vaxtlarını göstərən özünə məxsus sadə və maraqlı dizaynı olan Namaz Vaxtı tətbiqi",
+      "https://play.google.com/store/apps/details?id=com.lezgindev.namaz_lite&hl=en"
   ),
   MobileApp(
       ConstAssets.neobot,
       "Neobot AI chat App",
-      "Su təmizləyən qurğular, filtlrər ev əşyalarının satışı ",
-      "https://play.google.com/store/apps/details?id=com.minicraft.pro"
+      "The AI chat app build with Flutter and Google Gemini Ai",
+      "https://play.google.com/store/apps/details?id=com.lezgindev.namaz_lite&hl=en"
   ),
 
 

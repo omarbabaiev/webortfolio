@@ -7,8 +7,9 @@ class RecentProjects extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Row(
-        mainAxisAlignment: MainAxisAlignment.spaceAround,
+    return Wrap(
+        runSpacing: 100,
+        spacing: 250,
         children:[
           allProjects[0],
           allProjects[1],

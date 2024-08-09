@@ -35,7 +35,6 @@ class _ContactBottomWidgetState extends State<ContactBottomWidget> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 170,
       width: widget._w,
       child: Column(
         mainAxisAlignment: MainAxisAlignment.spaceAround,
@@ -66,9 +65,9 @@ class _ContactBottomWidgetState extends State<ContactBottomWidget> {
           SizedBox(height: 10),
           Text(
             ConstText.allRight,
-            style: GoogleFonts.josefinSans(
+            style: GoogleFonts.poppins(
               letterSpacing: 3,
-              fontSize: 18,
+              fontSize: 15,
               fontWeight: FontWeight.w400,
               color: Colors.white,
             ),
@@ -76,18 +75,18 @@ class _ContactBottomWidgetState extends State<ContactBottomWidget> {
           SizedBox(height: 10),
           Text(
             ConstText.buildByWho,
-            style: GoogleFonts.josefinSans(
+            style: GoogleFonts.poppins(
               letterSpacing: 3,
-              fontSize: 18,
+              fontSize: 15,
               fontWeight: FontWeight.w400,
               color: Colors.white,
             ),
           ),
+          SizedBox(height: 20,)
         ],
       ),
       decoration: BoxDecoration(
-        borderRadius: BorderRadius.vertical(top: Radius.circular(300)),
-        color: ConstColors.color2.withOpacity(.4),
+        color: ConstColors.color2.withOpacity(.1),
       ),
     );
   }
@@ -117,8 +116,8 @@ class SocialButton extends StatelessWidget {
         _launchURL(link);
       },
       icon: Padding(
-        padding: const EdgeInsets.all(4.0),
-        child: SvgPicture.asset("assets/social_buttons/${asset}", height: 25,),
+        padding: const EdgeInsets.all(1.0),
+        child: SvgPicture.asset("assets/social_buttons/${asset}", height: 20  ,),
       ),
     );
   }
