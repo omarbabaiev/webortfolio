@@ -51,11 +51,16 @@ final ScrollGetxController _scrollGetxController = Get.put(ScrollGetxController(
                     SizedBox(height: 100,),
                     ButonRow(w: _w),
                     SizedBox(height: 40,),
+                    Column(
+                      children: [
+                        SizedBox(height: 50,),
+                        CircleAvatar(
+                          radius: 150,
+                          backgroundImage: AssetImage( 'assets/profil.png'),),
+                      ],
+                    ),
+                    SizedBox(height: 40,),
                     QuotesWidget(w: _w, ),
-                    Padding(
-                      padding: const EdgeInsets.symmetric(vertical: 50),
-                      child: Placeholder(fallbackWidth: 200,),),
-                    HeaderButton(ConstText.buttonViewLogs, (){}),
                     SizedBox(height: 100,),
                     HeaderText(ConstText.recentProjects),
                     SizedBox(height: 100,),

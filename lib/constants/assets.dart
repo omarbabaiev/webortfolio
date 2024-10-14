@@ -16,5 +16,7 @@ class ConstAssets{
   static final linkedin = "linkedin.svg";
   static final medium = "medium.svg";
   static final youtube = "youtube.svg";
+  static final webPortfolio = 'web.jpg';
+  static final calCul = 'photo_5463277548625587873_y.jpg';
 
 }

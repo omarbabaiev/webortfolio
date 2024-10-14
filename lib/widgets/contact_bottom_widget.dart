@@ -67,7 +67,7 @@ class _ContactBottomWidgetState extends State<ContactBottomWidget> {
             ConstText.allRight,
             style: GoogleFonts.poppins(
               letterSpacing: 3,
-              fontSize: 15,
+              fontSize: 13,
               fontWeight: FontWeight.w400,
               color: Colors.white,
             ),
@@ -77,7 +77,7 @@ class _ContactBottomWidgetState extends State<ContactBottomWidget> {
             ConstText.buildByWho,
             style: GoogleFonts.poppins(
               letterSpacing: 3,
-              fontSize: 15,
+              fontSize: 13,
               fontWeight: FontWeight.w400,
               color: Colors.white,
             ),

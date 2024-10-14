@@ -25,7 +25,13 @@ class _ButonRowState extends State<ButonRow> {
   final ScrollGetxController _controller = Get.put(ScrollGetxController());
   bool _isHovered = false;
   bool _isHovered2 = false;
-
+  Future<void> _launchURL(String url) async {
+    if (await canLaunch(url)) {
+      await launch(url);
+    } else {
+      throw 'Could not launch $url';
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -58,7 +64,9 @@ class _ButonRowState extends State<ButonRow> {
 
 
               ),
-              onPressed: () {},
+              onPressed: () async{
+                await  _launchURL(socialButtonList[2].link);
+              },
               child: Padding(
                 padding: const EdgeInsets.symmetric(
                     horizontal: 4, vertical: 15),
@@ -125,7 +133,9 @@ class _ButonRowState extends State<ButonRow> {
 
 
       ),
-      onPressed: () {},
+      onPressed: () async{
+        await _launchURL(socialButtonList[2].link);
+      },
       child: Padding(
         padding: const EdgeInsets.symmetric(
             horizontal: 4, vertical: 15),

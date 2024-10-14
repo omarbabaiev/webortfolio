@@ -1,6 +1,7 @@
 import 'package:adaptive_navbar/adaptive_navbar.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -29,10 +30,10 @@ class DestkopAppBar extends StatelessWidget implements PreferredSize {
       canTitleGetTapped: true,
       titleTextStyle: TextStyle(color: ConstColors.color3, fontSize: mobile ? 18  : 25, fontFamily: "JosefinSans", fontWeight: FontWeight.bold),
       toolbarTextStyle: TextStyle(color: ConstColors.color3, fontSize: 20, fontFamily: "JosefinSans", fontWeight: FontWeight.bold),
-      toolbarHeight: mobile ? 60 :200,
+      toolbarHeight: mobile ? 100 :200,
       title: Obx(()=>
       AnimatedCrossFade(firstChild:Text("OMAR BABAYEV", ),
-          secondChild: Text("Porfolio"),
+          secondChild: Image.asset("logo.png", height: 70, color: ConstColors.color1,),
           crossFadeState: _scrollGetxController.isScrolled.value ? CrossFadeState.showFirst : CrossFadeState.showSecond,
           duration: Duration(milliseconds: 100))
 

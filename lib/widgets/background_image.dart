@@ -41,15 +41,16 @@ class _BackgroundImageState extends State<BackgroundImage> with SingleTickerProv
   @override
   Widget build(BuildContext context) {
     return Stack(
+      alignment: Alignment.center,
       children: [
         FadeTransition(
           opacity: _animation,
           child: SvgPicture.asset(
-            'Sprinkle.svg',
-            fit: BoxFit.cover,
-            height: Get.height,
-            width: Get.width,
-            color: ConstColors.color1,
+            'url-link-svgrepo-com.svg',
+            fit: BoxFit.fitHeight,
+            height: Get.height/1.2,
+            width: Get.width/1.2,
+            color: ConstColors.color1.withOpacity(.4),
           ),
         ),
         Container(

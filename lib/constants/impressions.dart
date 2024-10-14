@@ -1,3 +1,5 @@
+import 'package:web_portfolio/widgets/web_app.dart';
+
 import '../widgets/contact_bottom_widget.dart';
 import '../widgets/mobile_app_widget.dart';
 import 'assets.dart';
@@ -10,7 +12,19 @@ var socialButtonList = [
 ];
 
 var allProjects = [
-
+  MobileApp(
+      ConstAssets.calCul,
+      "CalCul",
+      "Take control of your finances with our powerful and intuitive loan calculator app",
+      "https://play.google.com/store/apps/details?id=com.omarbabayev.calcul&hl=en"
+  ),
+  WebApp(
+      ConstAssets.webPortfolio,
+      "Portfolio web site",
+      "Portfolio web site with flutter web\n"
+          "   ",
+      "https://github.com/omarbabaiev/webortfolio"
+  ),
   MobileApp(
       ConstAssets.alliance,
       "Alliance",
